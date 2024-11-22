@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, especially in **.NET**.
 - 🌱 I’m currently learning advanced **C# programming** and exploring **backend development**.
 - 💞️ I’m looking to collaborate on **news application development**.
-- 📫 How to reach me: [Email](abdomoamad76@gmail.com)
+- 📫 How to reach me: abdomoamad76@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love debugging and learning from errors more than writing code!  
 
