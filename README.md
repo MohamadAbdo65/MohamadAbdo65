@@ -5,7 +5,7 @@ A .NET Back-end Developer
 ![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamadAbdo65&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAbdo65&layout=compact&theme=dark)
 
-## 🚀 Languages and Technologies I Use  
+## 🚀 Languages , Technologies and Tools I Use  
 <p align="left">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
