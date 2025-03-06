@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamad Abdo  
+# Hi 👋, I'm Mohamad  
 A .NET Back-end Developer  
 
 ## 📊 GitHub Stats  
@@ -11,7 +11,7 @@ A .NET Back-end Developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original-wordmark.svg" alt="REST API" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/RestAPI.png" alt="REST API" width="50" height="50"/>
 </p>  
 
 ## 📌 Where to find me  
