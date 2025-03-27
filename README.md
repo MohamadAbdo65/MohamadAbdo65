@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Mohamad  
  
 ![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamadAbdo65&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAbdo65&layout=compact&theme=dark)
    
 </p>  
 
