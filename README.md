@@ -6,10 +6,6 @@
   />
 </a>
 
-
-<!-- GitHub stats with icons and tokyo theme -->
-![MohamadAbdo65's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAbdo65&show_icons=true&theme=tokyonight&rank_icon=github)
-
 <!-- Link to view all repositories -->
 <p align="left">
   <a href="https://github.com/MohamadAbdo65?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-6232a8?style=for-the-badge&logoColor=white&logo=repo"/></a>
