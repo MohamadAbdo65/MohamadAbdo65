@@ -16,6 +16,6 @@
 <!-- Skills icons showcasing your tech stack -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,git,ubuntu,windows,obsidian,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,postgres,git,docker,ubuntu,windows,obsidian,vscode,visualstudio)](https://skillicons.dev)
 
 </div>  
